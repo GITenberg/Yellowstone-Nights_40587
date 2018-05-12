@@ -1,0 +1,28 @@
+_repo: Yellowstone-Nights_40587
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40587-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Quick, Herbert
+    alias: Quick, John Herbert
+    birthdate: 1861
+    deathdate: 1925
+    gutenberg_agent_id: '4251'
+    url: http://www.gutenberg.org/2009/agents/4251
+    wikipedia: http://desmoinesregister.com/extras/iowans/quick.html
+description: ''
+gutenberg_issued: '2012-08-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40587'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Yellowstone National Park -- Fiction'
+- !lcc 'PS'
+title: Yellowstone Nights
+url: http://www.gutenberg.org/ebooks/40587
